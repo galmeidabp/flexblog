@@ -7,6 +7,7 @@ Projeto realizado durante o curso de CSS Flexbox promovido pela Origamid. <br/>
 <p align="center">
   <a href="#-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -21,7 +22,9 @@ Esse projeto foi desenvolvido com as seguintes ferramentas:
 - CSS
 - Git e Github
 
-Neste projeto adquiri uma introdução da linguagem JavaScript, explorando e aplicando conceitos fundamentais. Utilizei variáveis let e const para uma gestão mais eficiente do escopo, adotei a sintaxe de arrow function para criar funções de maneira concisa, apliquei animações para criar uma experiência interativa e dinâmica e implementei um sistema de navegação baseado em abas (tabs), proporcionando uma organização eficaz do conteúdo.
+- ## ✏️ Aprendizado
+
+Neste projeto pude aprimorar e consolidar meus conhecimentos fundamentais sobre esta técnica de layout e coloquei em prática durante o projeto FlexBlog. 
 
 ## :memo: Licença
 
